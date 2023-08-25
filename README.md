@@ -14,4 +14,10 @@ Functional Requirements for Parking Lot:
 7. The system should be able to calculate the number of hours a vehicle has been parked.
 
 Class Diagram:
+
 ![image](https://github.com/anmol201712/Parking-Lot-Low-Level-Design/assets/103591956/f9cc01fe-41b3-4038-ba20-db012b60921f)
+
+Use Case Diagram:
+
+![image](https://github.com/anmol201712/Parking-Lot-Low-Level-Design/assets/103591956/40baa2ae-c119-4148-a64e-a8865a881ce7)
+
